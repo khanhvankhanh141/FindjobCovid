@@ -45,20 +45,57 @@
   </view>
 
 </view> -->
-
-
-<image class = "banner" src = "../../images/banner.png" />
-<image class="JobTitle" src = "../../images/Job Title.png"/>
-<view>
-    <image class="Susgestion" src = "../../images/HairCut Components.png"/>
-    <image class="Susgestion" src = "../../images/Protecter Components.png"/>
-    <image class="Susgestion" src = "../../images/Sale Components.png"/>
+<!--carosel-->
+ 
+ 
+ <view>
+  <carousel>
+    <carousel-item>
+      <view class="carousel-item" style="background">
+        <image class = "banner" src = "../../images/banner.png" />
+      </view>
+    </carousel-item>
+    <carousel-item>
+      <view class="carousel-item" style="background">
+        <image class = "banner" src = "../../images/banner2.png" />
+      </view>
+    </carousel-item>
+    <carousel-item>
+      <view class="carousel-item" style="background">
+        <image class = "banner" src = "../../images/banner3.png" />
+      </view>
+    </carousel-item>
+  </carousel>
 </view>
-<view>
-    <image class="Susgestion" src = "../../images/Demo 1.png"/>
-    <image class="Susgestion" src = "../../images/Demo 2.png"/>
-    <image class="Susgestion" src = "../../images/Demo 3.png"/>
+
+
+<image class="JobTitle" src = "../../images/Title/1.png"/>
+ <view>
+  <carousel>
+    <carousel-item>
+      <view class="carousel-item1" style="background">
+        <image class = "banner" src = "../../images/Influencer/1.png" />
+      </view>
+    </carousel-item>
+    <carousel-item>
+      <view class="carousel-item1" style="background">
+        <image class = "banner" src = "../../images/Influencer/2.png" />
+      </view>
+    </carousel-item>
+    <carousel-item>
+      <view class="carousel-item1" style="background">
+        <image class = "banner" src = "../../images/Influencer/3.png" />
+      </view>
+    </carousel-item>
+   <carousel-item>
+      <view class="carousel-item1" style="background">
+        <image class = "banner" src = "../../images/Influencer/4.png" />
+      </view>
+    </carousel-item>
+  </carousel>
 </view>
 <image class="Discount" src ="../../images/Discount Components.png"/>
+<image class="JobTitle" src = "../../images/Title/2.png"/>
+
 
 
