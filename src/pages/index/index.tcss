@@ -166,3 +166,20 @@ margin: 0px;
   height: 190px;
   margin-top:-40px;
 }
+
+.job{
+  display: inline-block;
+  width: 45%;
+  height:auto;
+  padding:5px;
+  
+}
+
+.ut{
+  width: 90%;
+  height: auto;
+  left: 10px;
+  top: 323px;
+  margin-left: 5px;
+  padding: 10px;
+}
