@@ -1,0 +1,12 @@
+{
+  "name": "find-job-covid-19",
+  "version": "0.1.0",
+  "tiki": {
+    "appIdentifier": "com.tiki.app.findjobCovid19",
+    "buildNumber": 1
+  },
+  "dependencies": {
+    "@tiki.vn/tini-style": "^0.1.1",
+    "@tiki.vn/tini-ui": "^0.1.1"
+  }
+}

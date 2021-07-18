@@ -1,0 +1,49 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/discovery/index",
+    "pages/message/index",
+    "pages/profile/index"
+  ],
+  
+  "window": {
+    "defaultTitle": "Find Job Covid-19",
+    "titleBarColor": "#FFF",
+    "titleColor": "#FFBA12",
+    "backgroundColor": "#FFF"
+  },
+
+  "window": {
+    "transparentTitle": "auto"
+  },
+  "tabBar": {
+    "backgroundColor": "#ffe39d",
+    "radius": "20px",
+        "items": [{
+                "name": "",
+                "pagePath": "pages/index/index",
+                "icon": "images/icon/Home.png",
+                "activeIcon": "images/active/Home.png"
+            },
+              {
+                "name": "",
+                "pagePath": "pages/discovery/index",
+                "icon": "images/icon/Plus.png",
+                "activeIcon": "images/active/Plus.png"
+            },
+            {
+                "name": "",
+                "pagePath": "pages/message/index",
+                "icon": "images/icon/Chat.png",
+                "activeIcon": "images/active/Chat.png"
+            },
+           
+             {
+                "name": "",
+                "pagePath": "pages/profile/index",
+                "icon": "images/icon/Adjusment.png",
+                "activeIcon": "images/active/Adjusment.png"
+            }
+        ]
+    }
+}
