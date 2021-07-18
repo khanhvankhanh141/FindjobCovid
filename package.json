@@ -1,8 +1,8 @@
 {
   "name": "find-job-covid-19",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "tiki": {
-    "appIdentifier": "com.tiki.app.findjobCovid19",
+    "appIdentifier": "findjob.com",
     "buildNumber": 1
   },
   "dependencies": {
