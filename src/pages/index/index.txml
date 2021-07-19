@@ -31,22 +31,7 @@
   </view>
 </view>
 
-<!-- Hand Writing -->
-
-<!-- 
-<view class = "header">
-  <view class = "header-left">
-    <icon class="tu-icon" {{location}}" />
-    <text class = "direction">108 Bà Triệu</text>   
-  </view>
-
-  <view class = "header-right">
-
-  </view>
-
-</view> -->
 <!--carosel-->
- 
  
  <view>
   <carousel>
